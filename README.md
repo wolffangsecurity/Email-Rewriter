@@ -1,6 +1,5 @@
 <img width="1280" height="720"  src="https://github.com/user-attachments/assets/5257bc03-fcce-418e-947c-caacbb37d852" />
 
-# Polished Email Rewriter
 
 Polished Email Rewriter is a web application that converts informal drafts into structured, professional emails using large language models. The system routes user text through a backend security proxy to OpenRouter or a local deterministic engine, enforcing tone constraints and factual preservation without storing user drafts. The client provides real-time diff visualization, inline text editing, and formatted clipboard export.
 
